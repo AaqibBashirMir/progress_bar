@@ -1,0 +1,25 @@
+.body{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgb(42, 16, 75),white);
+    color: white;
+}
+.main{
+    width: 400px;
+    background-color:rgba(156, 156, 156, 0.664);
+    border-radius: 10px;
+    height: 30px;
+
+}
+.bar{
+    text-align: center;
+    background-color: green;
+    border-radius: 10px;
+    height: 30px;
+    color: aliceblue;
+    font-size: larger;
+}
